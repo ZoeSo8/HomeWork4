@@ -123,7 +123,7 @@ public class Main {
         
         int one = 1;
         int two = 7;
-        int three = 3;
+        int three = 30;
         if (one>two && one>three){
             System.out.println("Число one самое большое");
         }
